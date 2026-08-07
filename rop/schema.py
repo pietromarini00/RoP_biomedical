@@ -39,6 +39,7 @@ class SourceAuthority(str, Enum):
     DUO = "DUO"
     DICOM = "DICOM"
     BIDS = "BIDS"
+    AMP_SYSBIO = "AMP (SysBio FAIRplex)"
     DATATECNICA = "DataTecnica-derived"
 
 
